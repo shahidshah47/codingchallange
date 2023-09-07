@@ -23,13 +23,10 @@ To get started with the project, follow these steps:
 
 npm install
 
-3. Configure Google Sign-In and Firebase according to the provided instructions in the code comments.
 
 ## Running the App
 To run the app on an emulator or physical device, use the following command:
 npx react-native run-android # For Android
-
-Copy code
 or
 npx react-native run-ios # For iOS
 
