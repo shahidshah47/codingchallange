@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "891615878073",
+    "project_id": "codingchallange-3f588",
+    "storage_bucket": "codingchallange-3f588.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891615878073:android:a49411ed0e4ea653cb7468",
+        "android_client_info": {
+          "package_name": "com.codingchallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891615878073-6kkus2aq955si5il55dh22fsrntrhskd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codingchallenge",
+            "certificate_hash": "863f62b7e0485500702c666d68381e5196dde841"
+          }
+        },
+        {
+          "client_id": "891615878073-qkl9oc0rli0qlh6fbspejpkq56c8r2ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5JrIQlFu7vkiLWVbNejEoZHy6F3-DjQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891615878073-ou2qhnferki7m9gm8infhu6uartfaer6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
