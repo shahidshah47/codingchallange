@@ -22,7 +22,7 @@ To get started with the project, follow these steps:
 2. Install project dependencies by running:
 
 npm install
-
+Note: Node version is 19.5.0
 
 ## Running the App
 To run the app on an emulator or physical device, use the following command:
